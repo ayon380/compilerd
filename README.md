@@ -9,6 +9,13 @@
 
 
 ##Added Frontend
+-> Contains Copy and Delete Buttons
+-> Has Light and Dark Mode Supprt
+-> Responsive
+-> Animations and transitons using framer-motion
+-> IntelliSense Builtin
+-> Stdin Support
+-> Simple Minimal Beautiful UI
 ![image](https://github.com/ayon380/compilerd/assets/89068157/3b6e8140-9711-4fd5-82ce-d792b39aafe3)
 
 
